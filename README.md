@@ -2,8 +2,8 @@
 
 > 바닐라 JS를 이용해 Chrome App 만들기
 
-<span align="left"><img src="https://user-images.githubusercontent.com/98699927/191454652-ef282e8c-73a2-4582-86e3-16740015a0d4.jpg" width=500 height=250></span>
-<span align="right"><img src="https://user-images.githubusercontent.com/98699927/191458409-8ced3937-2aa6-4e39-8f24-9b65969e78ae.jpg" width=500 height=250></span>
+<span align="left"><img src="https://user-images.githubusercontent.com/98699927/191454652-ef282e8c-73a2-4582-86e3-16740015a0d4.jpg" width=400 height=200></span>
+<span align="right"><img src="https://user-images.githubusercontent.com/98699927/191458409-8ced3937-2aa6-4e39-8f24-9b65969e78ae.jpg" width=400 height=200></span>
 
 ## 구현 기능
 <ul>
